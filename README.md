@@ -67,7 +67,7 @@ In normal settings, assuming you’re using the timer module in PWM mode and gen
   
 
 ## STM 32 CUBE PROGRAM :
-```
+
 #include "main.h"
 
 TIM_HandleTypeDef htim2;
@@ -205,7 +205,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 
 
-```
+
 
 
 
@@ -278,7 +278,6 @@ FREQUENCY = 1/(TOTAL TIME)
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
-```
-NAME : Keerthi Vasan A
-REG NO : 212222240048
-```
+
+Name   : ARHAM S
+REG NO : 212222110005
